@@ -1,4 +1,4 @@
-![Optional Text](../master/My Portfolio/Ramjans Portfolio.png)
+![Optional Text](../master/my-portfolio/Ramjans Portfolio.png)
 
 # Nuxt 3 Minimal Starter
 
