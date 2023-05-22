@@ -1,7 +1,7 @@
 <template>
-    <div class="flex flex-colm relative items-center justify-between mx-2 mt-[10px]">
+    <div class="flex flex-colm relative items-start justify-between mx-2 mt-[10px]">
     <Title>GitHub</Title>
-    <img src="GitHub Profile.png" alt="image" class="h-[500px] w-10/12" >
+    <img src="GitHub Profile.png" alt="image" class="h-[500px] w-[800px] " >
     <div class="bg-white px-5 ">
         <h1 class="text-blue-500 font-serif text-3xl font-bold">Profile Description</h1>
         <p class="text-pink-700 font-semibold text-md">Hi, I'm a frontend developer & designer having the efficiency of making a dynamic website by using Vue.js(Vue3), Nuxt3, JavaScript, and Tailwind.css  at affordable price based on client demands. If this is something you need, please don't hesitate to get in touch to discuss your next plan or project.
@@ -41,7 +41,9 @@ LEARNING
 ◑ PHP(Language)
 ◑ TypeScript(Language)
 ◑  Laravel(Framework)</p>
-        <a class="text-orange-700 cursor-pointer"><u>https://github.com/Ramjansworld?tab=repositories</u></a>
+        <a href="https://github.com/Ramjansworld?tab=repositories" class="text-orange-700 cursor-pointer">
+        <u>https://github.com/Ramjansworld?tab=repositories</u>
+        </a>
     </div>
 </div>
 <div

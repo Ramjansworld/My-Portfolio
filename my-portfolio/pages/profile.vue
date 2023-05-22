@@ -28,7 +28,7 @@
             <br />
             <u>WhatsApp: +8801741930058</u>
             <br />
-            <a herf="https://www.ramjansworld.com">
+            <a href="https://www.ramjansworld.com">
               <u>Website: https://www.ramjansworld.com</u>
             </a>
           </div>

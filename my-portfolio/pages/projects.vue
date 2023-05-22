@@ -11,7 +11,7 @@
           Lasy Loading etc.). For designing home page I added setinterval for JavaScript
           image slider with running a loop.
         </p>
-        <a herf="https://github.com/Ramjansworld/Walton-Web-Design" class="text-orange-700 cursor-pointer"
+        <a href="https://github.com/Ramjansworld/Walton-Web-Design" class="text-orange-700 cursor-pointer"
           ><u>https://github.com/Ramjansworld/Walton-Web-Design</u></a
         >
       </div>
@@ -27,7 +27,7 @@
           DevTools. From this platform vehicle owner's can take services for their vehicle
           at affordable price anywhere in Bangladesh.
         </p>
-        <a herf="https://github.com/Ramjansworld/Vehicle-Servicing-BD" class="text-orange-700 cursor-pointer"
+        <a href="https://github.com/Ramjansworld/Vehicle-Servicing-BD" class="text-orange-700 cursor-pointer"
           ><u>https://github.com/Ramjansworld/Vehicle-Servicing-BD</u>
         </a>
       </div>
@@ -50,7 +50,7 @@
           JavaScript, and Tailwind.css postcss plugins. For super fast SEO I chosed Vite.js
           DevTools.
         </p>
-        <a herf="https://github.com/Ramjansworld/Vet-Pet-Master" class="text-orange-700 cursor-pointer"
+        <a href="https://github.com/Ramjansworld/Vet-Pet-Master" class="text-orange-700 cursor-pointer"
           ><u>https://github.com/Ramjansworld/Vet-Pet-Master</u></a
         >
       </div>
@@ -63,7 +63,7 @@
           This project was about Lamborghini Car Purchase Cart Design. For developing and
           desiging this I used Vue.js composition API, JavaScript, and Tailwind.css.
         </p>
-        <a herf="https://github.com/Ramjansworld/Lamborghini-Car-Purchase-Cart-Design" class="text-orange-700 cursor-pointer"
+        <a href="https://github.com/Ramjansworld/Lamborghini-Car-Purchase-Cart-Design" class="text-orange-700 cursor-pointer"
           ><u>https://github.com/Ramjansworld/Lamborghini-Car-Purchase-Cart-Design</u></a
         >
       </div>
@@ -74,6 +74,21 @@
           class="h-[500px] w-[750px]"
         />
       </a>
+    </div>
+
+    <div class="flex flex-colm relative items-center justify-between mx-2 mt-[10px]">
+      <img src="Ramjans Portfolio.png" alt="image" class="h-[500px] w-[750px]" />
+      <div class="bg-white px-[40px] w-[600px]">
+        <h1 class="font-serif text-3xl font-bold text-blue-500">Project Description</h1>
+        <p class="font-semibold text-pink-700 text-md">
+          This project was my personal portfolio developed and designed by using Nuxt.js(Nuxt3)
+        , Vue.js composition API and Tailwind.css.
+
+        </p>
+        <a href="https://github.com/Ramjansworld/My-Portfolio/tree/master/my-portfolio" class="text-orange-700 cursor-pointer"
+          ><u>https://github.com/Ramjansworld/My-Portfolio/tree/master/my-portfolio</u></a
+        >
+      </div>
     </div>
   
     <div
