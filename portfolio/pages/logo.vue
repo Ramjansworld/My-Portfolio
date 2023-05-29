@@ -2,9 +2,9 @@
     <div
       class="flex flex-colm relative items-start justify-between bg-green-500 mx-2 pl-[30px]"
     >
-      <Title>Home Page</Title>
+      <Title>Logo</Title>
       <img
-        class="flex absolute flex-colm items-center justify-center ml-[420px] mt-[120px] rounded-xl h-[450px] w-[450px]"
+        class="flex absolute flex-colm items-center justify-center ml-[420px] mt-[170px] rounded-xl h-[450px] w-[450px]"
         src="/ramjans.jpg"
         alt="image"
       />
@@ -55,26 +55,17 @@
           <br />
           <br />
           <ul>
-            LEARNING:
+            Learning:
             <br />
             <br />
             <u>LANGUAGE</u>
             <li>TypeScript</li>
-            <br />
-            <u>Database</u>
-            <li>GraphQL</li>
-            <li>MySQL</li>
-            <br />
-            <u>Cloud</u>
-            <li>Back4App</li>
-            <li>AWS Amplify</li>
           </ul>
         </div>
       </div>
     </div>
-  
     <div
-      class="bg-gray-300 text-blue-700 mx-2 font-semibold flex items-center justify-center"
+      class="bg-gray-300 text-blue-700 mx-2 h-[40px] font-semibold flex items-center justify-center"
     >
       <h1>Copyright © 2023, all right reserved by Ramjan Ali Khandaker.</h1>
     </div>

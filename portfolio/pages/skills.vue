@@ -104,7 +104,7 @@
       </div>
     </div>
     <div
-      class="bg-gray-300 text-blue-700 mx-2 font-semibold flex items-center justify-center"
+      class="bg-gray-300 text-blue-700 mx-2 h-[40px] font-semibold flex items-center justify-center"
     >
       <h1>Copyright © 2023, all right reserved by Ramjan Ali Khandaker.</h1>
     </div>

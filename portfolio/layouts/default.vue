@@ -47,7 +47,7 @@
           <li
             class="text-violet-900 hover:text-blue-700 border-b-[3px] border-blue-300 hover:border-blue-500 duration-700"
           >
-            <NuxtLink to="/fiver">Fiver</NuxtLink>
+            <NuxtLink to="/fiver">Fiverr</NuxtLink>
           </li>
           <li
             class="text-violet-900 hover:text-blue-700 border-b-[3px] border-blue-300 hover:border-blue-500 duration-700"
@@ -60,7 +60,7 @@
             <NuxtLink to="/linkedin">LinkedIn</NuxtLink>
           </li>
           <li
-            class="text-violet-900 hover:text-blue-700"
+            class="text-violet-900 hover:text-blue-700" 
           >
             <NuxtLink to="/profile">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-[50px] h-[30px] stroke-stroke-blue-700">
@@ -83,4 +83,6 @@
     font-weight: bold;
   }
   </style>
-  
+  html {
+    -webkit-text-size-adjust: 100%;
+}

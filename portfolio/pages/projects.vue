@@ -92,7 +92,7 @@
     </div>
   
     <div
-      class="flex items-center justify-center mx-2 font-semibold text-blue-700 bg-gray-300"
+      class="flex items-center justify-center mx-2 h-[40px] font-semibold text-blue-700 bg-gray-300"
     >
       <h1>Copyright © 2023, all right reserved by Ramjan Ali Khandaker.</h1>
     </div>
