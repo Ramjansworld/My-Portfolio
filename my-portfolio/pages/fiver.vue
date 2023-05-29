@@ -4,12 +4,11 @@
       <img 
          src="Fiver Profile.png" 
          alt="image" 
-         class="h-[500px] w-[800px]"
-      />
+         class="h-[500px] w-[800px]"/>
       <div class="bg-white px-5">
         <h1 class="text-blue-500 font-serif text-3xl font-bold">Profile Description</h1>
         <p class="text-pink-700 font-semibold text-md">
-          Hi...As a full stack developer & designer, I have the efficiency of develop a
+          Hi...As a full stack developer and designer, I have the efficiency of develop a
           dynamic website by using Vue.js, Nuxt3, and Laravel framework at affordable price
           based on client demands. If this is something you need, please don't hesitate to
           get in touch to discuss your next plan or project. AREAS OF EXPERTISE: FRAMEWORK
